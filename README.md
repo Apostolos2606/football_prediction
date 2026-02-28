@@ -1,1 +1,2 @@
 # football_prediction
+This procedure started in 2024 when a friend of mine had a brainstorm about combining and collecting football temas data in order to predict the result of the upcoming games. At first we were collecting the stats in excel sheets but now i use a  simple database. The calculations and the algorithm "score()" is an exclusive idea of my friend not mine. My contribution is in the process of optimizing the code and the process.
